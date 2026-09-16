@@ -5,6 +5,7 @@ A 3D obstacle dodging game built using the Unity Engine and compiled for web via
 ## Play live in the browser
 You can play the game directly on your web browser here:
 https://suvir-dev.github.io/cubey/
+*PC Only*
 
 <nobr>
   <img src="https://github.com/user-attachments/assets/0e7b15ef-4ac0-4473-9a88-a4dc9677a08e" width="400" style="border-radius: 6px;" alt="Standard gameplay">
