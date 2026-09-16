@@ -1,6 +1,6 @@
 # CUBEY
 
-A 3D obstacle dodging game built using the Unity Engine and compiled for web via webGL. You control a red cube sliding along a path with grey obstacles to dodge!
+A 3D obstacle dodging game built using the Unity Engine and compiled for web via webGL. You control a red cube sliding along a path with grey obstacles to dodge! It is based on Brackey's 'How to make a video game in Unity' tutorial. I expanded on this tutorial by adding multiple levels with UI for the transitions as well as a new falling obstacle type.
 
 ## Play live in the browser
 You can play the game directly on your web browser here:
